@@ -1,2 +1,2 @@
 # Python IM
-Python/MySQL Instant Messenger
+Python/MongoDB Instant Messenger
