@@ -1,2 +1,2 @@
-# python-im-client
+# Python IM
 Python/MySQL Instant Messenger
